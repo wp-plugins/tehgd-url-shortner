@@ -4,7 +4,7 @@ Tags: url shortner, tehgd
 Donate link: http://www.sam-bennett.co.cc
 Requires at least: 2.0.2
 Tested up to: 2.8.6
-Stable tag: 0.1
+Stable tag: 0.2
 
 This plugin creates a widget that can be placed in any wigitized area of the theme. This gives the users the ability to shorten URL's.
 
