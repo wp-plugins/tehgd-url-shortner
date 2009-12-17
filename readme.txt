@@ -42,6 +42,9 @@ Yes it can however, some URL's might not if they have a keyword that is blocked 
 
 == Changelog ==
 
+= 0.3 =
+* Changed the second textbox to a Div
+* Updated the SVN to update the JS folder
 = 0.2 =
 * File path Changed
 * Author Update
