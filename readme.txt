@@ -16,7 +16,7 @@ API to get the shortened URL.
 The features of this plugin is that it gives two text boxes and a submit button. It then allows a user to enter a URL into the top text box and on the 
 submit of the data the shortened URL is put into the second text box to allow the user to copy it.
 
-THe plugin does this by creating a widget which is then displayed in the widget section of the admin panel. This then allows you to drag the widget into 
+The plugin does this by creating a widget which is then displayed in the widget section of the admin panel. This then allows you to drag the widget into 
 a place where you have defined widgets to work.
 
 == Installation ==
