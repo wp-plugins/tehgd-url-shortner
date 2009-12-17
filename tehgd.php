@@ -9,7 +9,7 @@ Author http://www.sam-bennett.co.cc
 */
 
 //wp_enqueue_script('tehgdplugin', '/wp-content/plugins/tehgd/js/tehgd.jquery.js');
-wp_enqueue_script('myscript', '/wp-content/plugins/tehgd/js/script.js');
+wp_enqueue_script('myscript', '/wp-content/plugins/tehgd-url-shortner/js/script.js');
 
 function TehGD() 
 {
