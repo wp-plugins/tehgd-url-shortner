@@ -4,7 +4,7 @@ Plugin Name: Teh.GD URL Shortner
 Plugin URI: http://www.sam-bennett.co.cc/teh-gd-plugin/
 Description: Shortens URL's
 Author: Sam Bennett
-Version: 0.1
+Version: 0.2
 Author http://www.sam-bennett.co.cc
 */
 
