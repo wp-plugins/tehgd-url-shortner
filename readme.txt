@@ -42,8 +42,11 @@ Yes it can however, some URL's might not if they have a keyword that is blocked 
 
 == Changelog ==
 
+= 0.2 =
+* File path Changed
+* Author Update
 = 0.1 =
-Plugin Made - Abilty to shorten URL's
+* Plugin Made - Abilty to shorten URL's
 
 == Upgrade Notice ==
 
