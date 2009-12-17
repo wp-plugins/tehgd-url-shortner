@@ -1,5 +1,5 @@
 === TehGD URL Shortner ===
-Contributors: James Brooks
+Contributors: Sam Bennett, James Brooks
 Tags: url shortner, tehgd
 Donate link: http://www.sam-bennett.co.cc
 Requires at least: 2.0.2
