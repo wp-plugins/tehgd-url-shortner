@@ -24,7 +24,7 @@ Author http://www.sam-bennett.co.cc
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 //wp_enqueue_script('tehgdplugin', '/wp-content/plugins/tehgd/js/tehgd.jquery.js');
-wp_enqueue_script('myscript', '/wp-content/plugins/tehgd-url-shortner/js/script.js');
+wp_enqueue_script('myscript', '/wp-content/plugins/tehgd-url-shortner/script.js');
 
 function TehGD() 
 {
